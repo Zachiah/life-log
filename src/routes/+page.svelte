@@ -39,7 +39,7 @@
 						<li>
 							{#if event.url}
 								<!-- eslint-disable-next-line svelte/no-navigation-without-resolve -->
-								<a class="text-blue-500" href={event.url}>{event.title}</a>
+								<a class="text-blue-400" href={event.url}>{event.title}</a>
 							{:else}
 								{event.title}
 							{/if}
