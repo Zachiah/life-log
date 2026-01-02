@@ -3,6 +3,7 @@
 		{
 			date: 'January 1 2026',
 			events: [
+				'Did my morning routine for 2026 for the first time',
 				[
 					'Implemented velocity for MIDI input on the music theory app',
 					'https://github.com/Zachiah/music-theory/commit/1d8dd3eafe468c8e957f8004689afaf193376767'
