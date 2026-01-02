@@ -9,7 +9,7 @@
 					'https://github.com/Zachiah/music-theory/commit/1d8dd3eafe468c8e957f8004689afaf193376767'
 				],
 				'Practiced improving my left hand piano technique for maybe 30 minutes',
-				'Setup this site'
+				['Setup this site', 'https://life-log.zachiah.com/']
 			]
 		}
 	];
