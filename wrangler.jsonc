@@ -1,0 +1,12 @@
+{
+	"name": "life-log",
+	"main": "./.cloudflare/worker.js",
+	"build": {
+		"command": "npm run build"
+	},
+	"assets": {
+		"directory": "./.cloudflare/public",
+		"binding": "ASSETS"
+	},
+	"compatibility_date": "2021-11-12"
+}
