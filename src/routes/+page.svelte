@@ -11,6 +11,13 @@
 				'Practiced improving my left hand piano technique for maybe 30 minutes',
 				['Setup this site', 'https://life-log.zachiah.com/']
 			]
+		},
+		{
+			date: 'January 2 2026',
+			events: [
+				'Started building a parser based calculator from scratch in rust',
+				'Practiced improving my left hand piano technique for maybe 30 minutes'
+			]
 		}
 	];
 
