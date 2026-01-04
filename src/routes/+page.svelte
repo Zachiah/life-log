@@ -18,6 +18,21 @@
 				'Started building a parser based calculator from scratch in rust',
 				'Practiced improving my left hand piano technique for maybe 30 minutes'
 			]
+		},
+		{
+			date: 'January 3 2026',
+			events: [
+				'Continued working on the parser I started yesterday',
+				'Practiced improving my left hand piano technique for maybe 45 minutes'
+			]
+		},
+		{
+			date: 'January 4 2026',
+			events: [
+				'Continued working on the parser',
+				'Practiced improving my left hand piano technique for maybe 30 minutes',
+				'Went to Bible study'
+			]
 		}
 	];
 
@@ -34,7 +49,7 @@
 <div class="flex flex-col gap-4 p-4">
 	<div class="flex flex-col gap-2">
 		<h1 class="text-4xl">Zachiah's Life Log</h1>
-		<p class="text-lg">Most notable accomplishments each day starting 2026</p>
+		<p class="text-lg">Most notable things I did each day starting 2026</p>
 	</div>
 
 	<div class="flex">
