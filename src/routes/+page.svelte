@@ -31,7 +31,16 @@
 			events: [
 				'Continued working on the parser',
 				'Practiced improving my left hand piano technique for maybe 30 minutes',
-				'Went to Bible study'
+				'Went to Bible study',
+				'Did a ton of piano improvisation'
+			]
+		},
+		{
+			date: 'January 5 2026',
+			events: [
+				'Triaged/reproed a bunch of issues on zed',
+				'Continued working on parser. It can evaluate expressions of the form `a op b` now! Just need to make it recursive',
+				'Practice improving my left hand piano technique for maybe 20 minutes'
 			]
 		}
 	];
@@ -52,7 +61,7 @@
 		<p class="text-lg">Most notable things I did each day starting 2026</p>
 	</div>
 
-	<div class="flex">
+	<div class="flex flex-col gap-2">
 		{#each data as day (day.date)}
 			<div>
 				<h2 class="text-2xl">{day.date}</h2>
