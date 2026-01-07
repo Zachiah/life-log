@@ -42,6 +42,16 @@
 				'Continued working on parser. It can evaluate expressions of the form `a op b` now! Just need to make it recursive',
 				'Practice improving my left hand piano technique for maybe 20 minutes'
 			]
+		},
+		{
+			date: 'January 6 2026',
+			events: [
+				'Triaged/reproed issues on zed',
+				[
+					'Made a PR fixing multibyte multicolumn selections in zed',
+					'https://github.com/zed-industries/zed/pull/46214'
+				]
+			]
 		}
 	];
 
