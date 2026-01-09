@@ -52,6 +52,20 @@
 					'https://github.com/zed-industries/zed/pull/46214'
 				]
 			]
+		},
+		{
+			date: 'January 7 2026',
+			events: [
+				'Triaged/reproed issues on zed',
+				[
+					'Made a PR fixing multiline search in zed',
+					'https://github.com/zed-industries/zed/pull/46298'
+				]
+			]
+		},
+		{
+			date: 'January 8 2026',
+			events: ['Triaged/reproed issues on zed']
 		}
 	];
 
