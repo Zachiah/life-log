@@ -65,7 +65,13 @@
 		},
 		{
 			date: 'January 8 2026',
-			events: ['Triaged/reproed issues on zed']
+			events: [
+				'Triaged/reproed issues on zed',
+				[
+					'Made a tiny PR making apostrophes not be considered brackets in markdown in zed',
+					'https://github.com/zed-industries/zed/issues/45912'
+				]
+			]
 		}
 	];
 
