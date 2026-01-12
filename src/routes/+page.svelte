@@ -72,6 +72,28 @@
 					'https://github.com/zed-industries/zed/issues/45912'
 				]
 			]
+		},
+		{
+			date: 'January 9 2026',
+			events: [
+				'Triaged/reproed issues on zed',
+				'Had a meeting talking about potentially working at Zed with Conrad',
+				'Added tests to 2 of my zed PRs',
+				'Convert a project into a monorepo using PNPM',
+				'Practiced guitar/piano a bit'
+			]
+		},
+		{
+			date: 'January 10 2026',
+			events: ['Worked on the monorepo PR from yesterday a bit', 'Did pull-ups']
+		},
+		{
+			date: 'January 11 2026',
+			events: ['Triaged a ton of zed issues in the morning and a bit more in the evening']
+		},
+		{
+			date: 'January 12 2026',
+			events: ['Triaged/reproed zed issues']
 		}
 	];
 
