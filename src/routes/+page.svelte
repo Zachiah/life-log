@@ -89,11 +89,20 @@
 		},
 		{
 			date: 'January 11 2026',
-			events: ['Triaged a ton of zed issues in the morning and a bit more in the evening']
+			events: [
+				'Triaged a ton of zed issues in the morning and a bit more in the evening',
+				'Did dead-hangs for 15s, 30s, 45s, 60s, 75s, then failed to get 90s (all back to back)'
+			]
 		},
 		{
 			date: 'January 12 2026',
-			events: ['Triaged/reproed zed issues']
+			events: [
+				'Triaged/reproed zed issues',
+				[
+					'Fixed a bug in the chord identifier',
+					'https://github.com/Zachiah/music-theory/commit/6183c1306b424a6b355d5a322cba3e80a26e4ec1'
+				]
+			]
 		}
 	];
 
