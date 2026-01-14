@@ -91,18 +91,33 @@
 			date: 'January 11 2026',
 			events: [
 				'Triaged a ton of zed issues in the morning and a bit more in the evening',
-				'Did dead-hangs for 15s, 30s, 45s, 60s, 75s, then failed to get 90s (all back to back)'
+				'Did dead-hangs for 15s, 30s, 45s, 60s, 75s, then failed to get 90s (all back to back)',
+				'Did a lot of intentional head-voice practice'
 			]
 		},
 		{
 			date: 'January 12 2026',
 			events: [
 				'Triaged/reproed zed issues',
+				'Did a lot of singing',
+				'Read the first half of the book: "Change is the Only Constant" by Ben Orlin',
 				[
 					'Fixed a bug in the chord identifier',
 					'https://github.com/Zachiah/music-theory/commit/6183c1306b424a6b355d5a322cba3e80a26e4ec1'
 				]
 			]
+		},
+		{
+			date: 'January 13 2026',
+			events: [
+				'Did a lot of singing',
+				'Read the second half of the book: "Change is the Only Constant" by Ben Orlin except a few chapters',
+				'Triaged/reproed zed issues'
+			]
+		},
+		{
+			date: 'January 14 2026',
+			events: ['Finished "Change is the Only Constant" by Ben Orlin']
 		}
 	];
 
