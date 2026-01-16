@@ -112,12 +112,25 @@
 			events: [
 				'Did a lot of singing',
 				'Read the second half of the book: "Change is the Only Constant" by Ben Orlin except a few chapters',
-				'Triaged/reproed zed issues'
+				'Triaged/reproed zed issues',
+				'Played minecraft'
 			]
 		},
 		{
 			date: 'January 14 2026',
-			events: ['Finished "Change is the Only Constant" by Ben Orlin']
+			events: [
+				'Finished "Change is the Only Constant" by Ben Orlin',
+				'Played minecraft',
+				'Started reading "Everyday Chaos" by Brian Clegg'
+			]
+		},
+		{
+			date: 'January 15 2026',
+			events: ['Played minecraft', 'Triaged zed issues']
+		},
+		{
+			date: 'January 16 2026',
+			events: ['Implemented a couple APIs for work', 'Triaged zed issues']
 		}
 	];
 
