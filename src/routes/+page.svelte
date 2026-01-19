@@ -131,6 +131,14 @@
 		{
 			date: 'January 16 2026',
 			events: ['Implemented a couple APIs for work', 'Triaged zed issues']
+		},
+		{
+			date: 'January 17 2026',
+			events: ['Practiced head-voice']
+		},
+		{
+			date: 'January 18 2026',
+			events: ['Practiced head-voice']
 		}
 	];
 
